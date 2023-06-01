@@ -5,16 +5,14 @@ My name is Syed, I love everything about tech, finance & business. Wanting to de
 I've started this challenge as a way to organize what I am doing to expand my skillset outside of the Cloud Native Tech - Kubernetes. I'm working as PM handling Multi-Cloud projects. 
 
 At the end of this challenge, I'd like to:
-
 - Become comfortable with using and understanding the Linux operating system
 - Knowledgeable on Kubernetes
-
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/syedhadii)
-- [Check out my portfolio at](https://syedcreates.tech)
+- [Check out my portfolio at](https://syedcreates.com)
 
 ## Automating Resource Deployments to Azure
 
-- [ ] ☁️ 1 > [Deploy a Virtual Machine in Azure](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Intro to K8s Networking](Journey/001/Readme.md)
 - [ ] ☁️ 2 > 
 - [ ] ☁️ 3 > 
 - [ ] ☁️ 4 > 
@@ -24,111 +22,102 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 8 > 
 - [ ] ☁️ 12 > 
 
-## Ansible
+Week 1: Day 1: Introduction to Kubernetes Networking
 
-- [ ] ☁️ 9 > [Getting Started with Ansible](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [Running Ad-Hoc Commands in Ansible](Journey/010/Readme.md)
-- [ ] ☁️ 11 > [Configuring Deployments with Ansible Playbooks](Journey/011/Readme.md)
-- [ ] ☁️ 13 > [Deploying Azure Resources with Ansible](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [Deploy Azure VMs using Ansible](Journey/014/Readme.md)
+Familiarize with the basics of Kubernetes networking, including Pods, Services, and Ingress.
 
-## Azure Functions
+Kubernetes Networking Concepts: Services, Load Balancing, and Networking 
 
-- [ ] ☁️ 15 > [Getting Started with Azure Functions](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [Triggers, Bindings, and Outputs](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [Function App Settings](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [Monitoring Function Apps](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [Function Development and Deployment](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [Azure Function Project](Journey/020/Readme.md)
+Day 2: Container Networking Interface (CNI)
 
-## Azure Automation
+Learn about CNI and how it enables container networking in Kubernetes.
 
-- [ ] ☁️ 21 > [Creating a PowerShell Runbook](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [Managing Runbook Authentication and Modules](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [Configuring Hybrid Worker Groups](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [Azure Automation Project](Journey/024/Readme.md)
+Understand different CNI plugins and their configuration.
 
-## Terraform
+Kubernetes CNI Documentation: Network Plugins 
 
-- [ ] ☁️ 25 > [Configurations](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [Terraform State](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [Variables](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [Modules](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [Advanced HCL](Journey/029/Readme.md)
+Day 3: Network Policies
 
-## CloudSkills.io Cloud Native Bootcamp
-- [ ] ☁️ 30 > [Week 1](Journey/030/Readme.md)
-- [ ] ☁️ 31 > [Week 2](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [Week 3](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [Week 4](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [Week 5](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [Week 6](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [Week 7](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [Week 8](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [Week 9](Journey/038/Readme.md)
-- [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
+Study the concept of Network Policies in Kubernetes.
 
-## CloudSkills.io AWS Architect Bootcamp
--- [ ]☁️ 40 > [](Journey/051/Readme.md)
-- [ ] ☁️ 41 > [](Journey/052/Readme.md)
-- [ ] ☁️ 42 > [](Journey/053/Readme.md)
-- [ ] ☁️ 43 > [](Journey/054/Readme.md)
-- [ ] ☁️ 44 > [](Journey/055/Readme.md)
-- [ ] ☁️ 45 > [](Journey/056/Readme.md)
-- [ ] ☁️ 46 > [](Journey/057/Readme.md)
-- [ ] ☁️ 47 > [](Journey/058/Readme.md)
-- [ ] ☁️ 48 > [](Journey/059/Readme.md)
-- [ ] ☁️ 49 > [](Journey/060/Readme.md)
-- [ ] ☁️ 50 > [](Journey/060/Readme.md)
+Learn how to define and enforce network traffic rules between Pods.
 
-## TBD
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
-- [ ] ☁️ 55 > [](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
-- [ ] ☁️ 65 > [](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
-- [ ] ☁️ 67 > [](Journey/067/Readme.md)
-- [ ] ☁️ 68 > [](Journey/068/Readme.md)
-- [ ] ☁️ 69 > [](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
-- [ ] ☁️ 71 > [](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
-- [ ] ☁️ 73 > [](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
-- [ ] ☁️ 75 > [](Journey/075/Readme.md)
-- [ ] ☁️ 76 > [](Journey/076/Readme.md)
-- [ ] ☁️ 77 > [](Journey/077/Readme.md)
-- [ ] ☁️ 78 > [](Journey/078/Readme.md)
-- [ ] ☁️ 79 > [](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
-- [ ] ☁️ 81 > [](Journey/081/Readme.md)
-- [ ] ☁️ 82 > [](Journey/082/Readme.md)
-- [ ] ☁️ 83 > [](Journey/083/Readme.md)
-- [ ] ☁️ 84 > [](Journey/084/Readme.md)
-- [ ] ☁️ 85 > [](Journey/085/Readme.md)
-- [ ] ☁️ 86 > [](Journey/086/Readme.md)
-- [ ] ☁️ 87 > [](Journey/087/Readme.md)
-- [ ] ☁️ 88 > [](Journey/088/Readme.md)
-- [ ] ☁️ 89 > [](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
-- [ ] ☁️ 91 > [](Journey/091/Readme.md)
-- [ ] ☁️ 92 > [](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
-- [ ] ☁️ 94 > [](Journey/094/Readme.md)
-- [ ] ☁️ 95 > [](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
-- [ ] ☁️ 97 > [](Journey/097/Readme.md)
-- [ ] ☁️ 98 > [](Journey/098/Readme.md)
-- [ ] ☁️ 99 > [](Journey/099/Readme.md)
-- [ ] ☁️ 100 > [](Journey/100/Readme.md)
+Kubernetes Network Policies Documentation: Network Policies 
+
+Day 4: CoreDNS and DNS Resolution
+
+Understand the role of CoreDNS in Kubernetes and its integration with DNS resolution.
+
+Learn how to configure DNS resolution for Pods and Services.
+
+Kubernetes CoreDNS Documentation: DNS for Services and Pods 
+
+Day 5: Ingress Controllers and Load Balancers
+
+Explore different Ingress Controllers and their capabilities.
+
+Understand how to expose applications outside the cluster using Ingress resources and Load Balancers.
+
+Kubernetes Ingress Controllers Documentation: Ingress Controllers 
+
+Week 2: Day 6: Container Network Interface (CNI) Plugins
+
+Dive deeper into various CNI plugins like Calico, Flannel, Weave, and Cilium.
+
+Understand their features, installation, and configuration.
+
+Calico: Project Calico | Tigera 
+
+Flannel: flannel-io/flannel 
+
+Weave: Manage & Operate Kubernetes with GitOps by Weaveworks 
+
+Cilium: Cilium - Linux Native, API-Aware Networking and Security for Containers 
+
+Day 7: Troubleshooting Networking Issues
+
+Focus on common networking issues in Kubernetes and how to troubleshoot them.
+
+Learn to use tools like tcpdump, nslookup, and kubectl for network debugging.
+
+Kubernetes Networking Troubleshooting Guide: https://kubernetes.io/docs/concepts/services-networking/troubleshooting/
+
+Day 8: Network Security Policies
+
+Explore advanced network security concepts in Kubernetes, including Network Security Policies.
+
+Understand how to enforce granular network-level security controls.
+
+Kubernetes Network Security Policies Documentation: Network Policies 
+
+Day 9: Service Meshes
+
+Study the concept of service meshes and their role in managing network traffic within Kubernetes clusters.
+
+Learn about popular service mesh technologies like Istio and Linkerd.
+
+Istio: Istio 
+
+Linkerd: The world's lightest, fastest service mesh. 
+
+Day 10: Mock Exam 1
+
+Take a mock exam to assess your knowledge and identify areas that need improvement.
+
+Use practice tests available online or the official KCNA mock exam if available.
+
+Mock Exam: Check for official CNCF or third-party practice exams.
+
+Week 3 (optional): Day 11-15: Deep Dive into Selected Networking Topics
+
+Select specific networking topics that you find challenging or need further understanding.
+
+Examples: Overlay Networking, Multicast, Load Balancing, Service Mesh Configuration, etc.
+
+Refer to relevant documentation, blogs, and articles for in-depth study.
+
+Week 4 (optional): Day 16-20: Practical Hands-On Experience
+
+Spend dedicated time working on real-world networking scenarios in a Kubernetes cluster.
+
+Deploy sample applications, configure network policies,

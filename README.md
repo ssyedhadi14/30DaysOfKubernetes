@@ -1,7 +1,7 @@
 ## Syed's Cloud Journey
 
 My name is Syed, I love everything about tech, finance & business. Wanting to deep dive into "tech" hands on. :) 
-I've started this challenge as a way to organize what I am doing to expand my skillset outside of the Cloud Native Tech - Kubernetes. I'm working as PM handling Multi-Cloud projects. 
+I've started this challenge as a way to organize what I am doing to expand my skillset outside of the Cloud Native Tech - Kubernetes. I'm working as PM handling multi-cloud projects while building a Cloud Security Product Accuknox(https://accuknox.com)  
 
 At the end of this challenge, I'd like to:
 - Become comfortable with using and understanding the Linux operating system

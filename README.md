@@ -10,7 +10,7 @@ At the end of this challenge, I'd like to:
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/syedhadii)
 - [Check out my portfolio at](https://syedcreates.com)
 
-## Automating Resource Deployments to Azure
+## Week 1
 
 - [ ] ☁️ 1 > [Intro to K8s Networking](Journey/001/Readme.md)
 - [ ] ☁️ 2 > 
@@ -19,10 +19,41 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 5 > 
 - [ ] ☁️ 6 > 
 - [ ] ☁️ 7 > 
-- [ ] ☁️ 8 > 
-- [ ] ☁️ 12 > 
 
-Week 1: Day 1: Introduction to Kubernetes Networking
+## Week 2
+
+- [ ] ☁️ 8 > 
+- [ ] ☁️ 9 > 
+- [ ] ☁️ 10 > 
+- [ ] ☁️ 11 > 
+- [ ] ☁️ 12 > 
+- [ ] ☁️ 13 > 
+- [ ] ☁️ 14 >
+ 
+## Week 3 
+ 
+- [ ] ☁️ 15 > 
+- [ ] ☁️ 16 > 
+- [ ] ☁️ 17 >  
+- [ ] ☁️ 18 > 
+- [ ] ☁️ 19 > 
+- [ ] ☁️ 20 >  
+- [ ] ☁️ 21 > 
+
+## Week 4
+
+- [ ] ☁️ 22 > 
+- [ ] ☁️ 23 >
+- [ ] ☁️ 24 >
+- [ ] ☁️ 25 > 
+- [ ] ☁️ 26 >
+- [ ] ☁️ 27 >
+- [ ] ☁️ 28 > 
+- [ ] ☁️ 29 >
+- [ ] ☁️ 30 >
+  
+
+<h3> Week 1: Day 1: Introduction to Kubernetes Networking </h3>
 
 Familiarize with the basics of Kubernetes networking, including Pods, Services, and Ingress.
 
@@ -60,7 +91,7 @@ Understand how to expose applications outside the cluster using Ingress resource
 
 Kubernetes Ingress Controllers Documentation: Ingress Controllers 
 
-Week 2: Day 6: Container Network Interface (CNI) Plugins
+<h3> Week 2: Day 6: Container Network Interface (CNI) Plugins </h3>
 
 Dive deeper into various CNI plugins like Calico, Flannel, Weave, and Cilium.
 
@@ -108,7 +139,7 @@ Use practice tests available online or the official KCNA mock exam if available.
 
 Mock Exam: Check for official CNCF or third-party practice exams.
 
-Week 3 (optional): Day 11-15: Deep Dive into Selected Networking Topics
+<h3> Week 3 (optional): Day 11-15: Deep Dive into Selected Networking Topics </h3> 
 
 Select specific networking topics that you find challenging or need further understanding.
 
@@ -116,7 +147,7 @@ Examples: Overlay Networking, Multicast, Load Balancing, Service Mesh Configurat
 
 Refer to relevant documentation, blogs, and articles for in-depth study.
 
-Week 4 (optional): Day 16-20: Practical Hands-On Experience
+<h3> Week 4 (optional): Day 16-20: Practical Hands-On Experience </h3> 
 
 Spend dedicated time working on real-world networking scenarios in a Kubernetes cluster.
 

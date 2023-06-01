@@ -1,43 +1,28 @@
-<p align="center">
-  <img src="banner.png">
-</p>
+## Syed's Cloud Journey
 
-## Jeff Brown's Cloud Journey
+My name is Syed, I love everything about tech, finance & business. Wanting to deep dive into "tech" hands on. :) 
 
-My name is Jeff Brown, and I am a 13+ year veteran of the IT industry working as a systems administrator/engineer and cloud engineer. I've primarily worked in the Microsoft space with technologies like Active Directory, Exchange, SQL, & SCCM. Lately I've been helping companies move to Microsoft 365, primarily using Microsoft Teams for collaboration purposes. I love automation and am a big fan of PowerShell and programming in general.
-
-I've started this challenge as a way to organize what I am doing to expand my skillset outside of the Microsoft ecosystem. I'm working towards a career as an Azure Cloud or DevOps engineer. I've already achieved several Azure certifications including:
-
-- Azure Administrator Associate
-- Azure Security Engineer Associate
-- Azure Architect Expert
-- DevOps Engineer Expert
-
-[View my Acclaim badges for Microsoft Certifications Here](https://www.youracclaim.com/users/jeffbrowntech/badges?sort=-state_updated_at&page=1)
+I've started this challenge as a way to organize what I am doing to expand my skillset outside of the Cloud Native Tech - Kubernetes. I'm working as PM handling Multi-Cloud projects. 
 
 At the end of this challenge, I'd like to:
 
 - Become comfortable with using and understanding the Linux operating system
-- Knowledgeable on Ansible and Terraform
-- Build pipelines using Azure DevOps, GitHub actions, and Jenkins
-- Basics of containers
-- A bit of Python too
+- Knowledgeable on Kubernetes
 
-- [Follow me on Twitter @JeffWBrown](https://twitter.com/JeffWBrown)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/jeffwaynebrown)
-- [Check out my blog at https://JeffBrown.tech](https://jeffbrown.tech)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/syedhadii)
+- [Check out my portfolio at](https://syedcreates.tech)
 
 ## Automating Resource Deployments to Azure
 
 - [ ] ☁️ 1 > [Deploy a Virtual Machine in Azure](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Using ARM Templates to Deploy VMs](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Deploy Resources with ARM Templates and PowerShell](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [Configuring ARM Templates with Additional Resources (Part 1)](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Configuring ARM Templates with Additional Resources (Part 2)](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Use Azure Key Vault in ARM Templates](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [Deploy from GitHub with a Deploy to Azure Button](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [Creating Multiples of Azure Resources with the copy Element](Journey/008/Readme.md)
-- [ ] ☁️ 12 > [Adding Outputs to ARM Templates](Journey/012/Readme.md)
+- [ ] ☁️ 2 > 
+- [ ] ☁️ 3 > 
+- [ ] ☁️ 4 > 
+- [ ] ☁️ 5 > 
+- [ ] ☁️ 6 > 
+- [ ] ☁️ 7 > 
+- [ ] ☁️ 8 > 
+- [ ] ☁️ 12 > 
 
 ## Ansible
 
@@ -84,17 +69,17 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
 
 ## CloudSkills.io AWS Architect Bootcamp
-- [ ] ☁️ 40 > [AWS Cloud Practitioner Certification](Journey/040/Readme.md)
-- [ ] ☁️ 41 > [Week 1](Journey/041/Readme.md)
-- [ ] ☁️ 42 > [Week 2](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [Week 3](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [Week 4](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [Week 5](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [Week 6](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [Week 7](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [Week 8](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [Week 9](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [Week 10](Journey/050/Readme.md)
+-- [ ]☁️ 40 > [](Journey/051/Readme.md)
+- [ ] ☁️ 41 > [](Journey/052/Readme.md)
+- [ ] ☁️ 42 > [](Journey/053/Readme.md)
+- [ ] ☁️ 43 > [](Journey/054/Readme.md)
+- [ ] ☁️ 44 > [](Journey/055/Readme.md)
+- [ ] ☁️ 45 > [](Journey/056/Readme.md)
+- [ ] ☁️ 46 > [](Journey/057/Readme.md)
+- [ ] ☁️ 47 > [](Journey/058/Readme.md)
+- [ ] ☁️ 48 > [](Journey/059/Readme.md)
+- [ ] ☁️ 49 > [](Journey/060/Readme.md)
+- [ ] ☁️ 50 > [](Journey/060/Readme.md)
 
 ## TBD
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
